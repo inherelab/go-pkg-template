@@ -10,7 +10,7 @@
 
 - features TODO
 
-> **[EN README](README.md)**
+> **[中文说明](README.zh-CN.md)**
 
 ## Install
 
