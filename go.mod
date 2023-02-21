@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/gookit/color v1.5.2
-	github.com/gookit/goutil v0.6.4
+	github.com/gookit/goutil v0.6.5
 )
 
 require (
